@@ -1,6 +1,6 @@
 # DISCLAIMER: THIS SCRIPT WILL CHANGE BEFORE THE EVALUATION. TREAT THIS AS A GUIDE.
 
-# Usage: uv run datagen.py <email>
+# Usage: uv run datagen.py 23f3004246@ds.study.iitm.ac.in
 
 # /// script
 # requires-python = ">=3.13"
