@@ -11,3 +11,7 @@ docstring-parser
 httpx
 scikit-learn
 pydantic
+pillow
+faker
+openai==0.28.0
+

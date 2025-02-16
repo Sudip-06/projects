@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.9-slim
+FROM python:3.10-slim
 
 # Prevent Python from writing pyc files to disk and enable unbuffered logging
 ENV PYTHONDONTWRITEBYTECODE=1
